@@ -7,7 +7,7 @@ This project is part of the EE1004 & CSE2062 Object-Oriented Programming course 
 
 This project allows encrypting a message into a selected image and decrypting it back. The encryption process modifies the RGB values of the image pixels to hide the message, while the decryption process reverses the changes using encoded clues.
 
-- The image used must not exceed **50x50 pixels**.
+- The image used must not exceed **128x128 pixels**.
 - A custom logging system records user activity.
 - Bubble Sort is used for sorting operations during encryption and decryption.
 
