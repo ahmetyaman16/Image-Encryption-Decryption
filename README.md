@@ -67,14 +67,6 @@ Sun May 26 13:20:30 TRT 2024   Image Decrypted Successfully...
 
 ![After Encryption](after_encryption.png)
 
-## 👥 Team Members
-
-| Name                  | Contribution           |
-|-----------------------|------------------------|
-| Ahmet Salih Yaman     | Part 1, Report         |
-| Zahan Poyraz Varlı    | Part 1                 |
-| Bilal Bostan          | Logger Implementation |
-| Yunus Emre Tırpan     | Part 2                 |
 
 ## 📚 References
 
